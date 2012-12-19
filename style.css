@@ -1,0 +1,57 @@
+body {
+ margin:0;
+ background: url('bg.jpg');
+}
+
+.layout {
+ width:736px;
+ margin: 0px auto;
+ }
+ 
+.wrapper {
+ padding: 0px 38px 10px;
+ margin: 0px -10px;
+ }
+ 
+ .divider {
+  width:550px;
+  height:20px;
+  background:url('divider.gif');
+  margin:0 auto;
+  }
+ 
+ 
+ .navigation {
+	margin: 0px 24px;
+  }
+  
+ .gfc {
+  background:url('gfx.jpg') no-repeat;
+  height:140px;
+  float:left;
+  width:52px;
+  margin-top:12px;
+  }
+.top {
+   background: url('bgcontent.jpg') no-repeat 0 -4%;
+   float:left;
+   text-align:center;
+   width:632px;
+   }
+   
+.pattern {
+    background:url('pattern.gif');
+	clear:both;
+	margin:0px;
+    }
+	
+ .content {
+  width:560px;
+  background-image: url('bgcontainer.jpg');
+  padding: 0px 60px;
+  }
+  
+ .header {
+  height:232px;
+  background-image: url('header.jpg');
+  }
